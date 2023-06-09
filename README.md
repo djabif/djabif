@@ -4,7 +4,7 @@ Get in touch 👉 <a href="mailto:dayana.jabif@gmail.com" target="_blank">dayana
 
 [![Linkedin: Dayana Jabif](https://img.shields.io/badge/-dayanajabif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayanajabif/)](https://www.linkedin.com/in/dayanajabif/)
 [![GitHub djabif](https://img.shields.io/github/followers/djabif?label=follow&style=social)](https://github.com/djabif)
-[![Twitter djabif](https://img.shields.io/twitter/follow/:djabif?label=Follow)](https://twitter.com/djabif)
+[![Twitter djabif](https://img.shields.io/twitter/follow/:djabif?label=Follow)](https://twitter.com/dayujabif)
 
 
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81q61rmKjEPaSxeFUPa9lWv1tN2yJHvYKuZ5Tco3BWGX1XEaEFnEx_OpfYzdIZ3O9eEmAdj5xqYBvUCrTXnfsXLNQ6HOpw=s2560)

@@ -2,11 +2,13 @@
 <p><em>Software Engineer | Entrepreneur | Frontend Developer</br>
 Get in touch 👉 <a href="mailto:dayana.jabif@gmail.com" target="_blank">dayana.jabif@gmail.com</a></em></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=djabif&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Linkedin: Dayana Jabif](https://img.shields.io/badge/-dayanajabif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayanajabif/)](https://www.linkedin.com/in/dayanajabif/)
 [![GitHub djabif](https://img.shields.io/github/followers/djabif?label=follow&style=social)](https://github.com/djabif)
 [![Twitter djabif](https://img.shields.io/twitter/follow/:djabif?label=Follow)](https://twitter.com/djabif)
+
+
+![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81q61rmKjEPaSxeFUPa9lWv1tN2yJHvYKuZ5Tco3BWGX1XEaEFnEx_OpfYzdIZ3O9eEmAdj5xqYBvUCrTXnfsXLNQ6HOpw=s2560)
+
 
 ## About me...  
 

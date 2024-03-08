@@ -1,5 +1,5 @@
 <h2> Hi there, I'm Dayana 👋</h2>
-<p><em>Software Engineer | Entrepreneur | Frontend Developer</br>
+<p><em>Software Engineer | Entrepreneur | Frontend Developer | Ionic Developer Expert </br>
 Get in touch 👉 <a href="mailto:dayana.jabif@gmail.com" target="_blank">dayana.jabif@gmail.com</a></em></p>
 
 [![Linkedin: Dayana Jabif](https://img.shields.io/badge/-dayanajabif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayanajabif/)](https://www.linkedin.com/in/dayanajabif/)
